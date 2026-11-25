@@ -1,0 +1,6 @@
+opencv-python
+mediapipe>=0.10.0
+numpy
+pyautogui
+pycaw; platform_system=="Windows"
+comtypes; platform_system=="Windows"
